@@ -4,6 +4,12 @@ LemonLDAP::NG is a modular Web-SSO based on Apache::Session modules.
 
 Development repository is hosted by [OW2 GitLab](https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng)
 
+<table width="100%">
+<tr>
+<td>If you'd like to have a copy of repository here, open an issue here :wink:</td>
+</tr>
+</table>
+
 You can find documentation here:
  * for administrators: https://lemonldap-ng.org/
  * for developers: see also embedded perldoc
